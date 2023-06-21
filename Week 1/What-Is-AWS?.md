@@ -38,8 +38,8 @@ Easily deploy your application in multiple Regions around the world with just a 
 
 ## Resources: 
 
-External Site: AWS: What is cloud computing?
+[AWS: What is cloud computing?](https://aws.amazon.com/what-is-cloud-computing/)
 
-External Site: AWS: Types of Cloud Computinghttps://docs.aws.amazon.com/whitepapers/latest/aws-overview/types-of-cloud-computing.html
+[AWS: Types of Cloud Computing](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/types-of-cloud-computing.html)https://docs.aws.amazon.com/whitepapers/latest/aws-overview/types-of-cloud-computing.html
 
-External Site: AWS: Cloud computing with AWShttps://aws.amazon.com/what-is-aws/
+[AWS: Cloud computing with AWS](https://aws.amazon.com/what-is-aws/)https://aws.amazon.com/what-is-aws/
